@@ -1,0 +1,270 @@
+body{
+    margin: 0;
+    position: relative;
+}
+
+.header-wrapper{
+    background: #d9230e;
+}
+.header-wrapper .header-logo{
+   display: inline-block;
+}
+.header-wrapper .header-logo img {
+display: inline-block;
+position: relative;
+padding-top: 5px;
+}
+
+.header-list{
+    display: inline-block;
+    float: right;
+    line-height: 42px;
+    color: azure;
+ 
+}
+.header-list ul{
+    display: inline-block;
+    color: #ffffff;
+}
+.header-list ul li{
+    display: inline;
+    padding: 1rem;}
+    
+.header-list ul li:hover{
+    font-weight: bold;
+    color: black;
+} 
+
+.header-button button{
+    float: right;
+    height: 35px;
+    width: 110px;
+}
+.header-button{
+    color:#c42419 ;
+    
+    border: none;
+    padding: 7px;
+    border-radius: 5%;
+}
+.header-button:hover{
+    font-weight: bolder;
+}
+.navbar{
+    background-color: #c51a08;
+    text-align: center;
+}
+
+.navbar-wrapper{
+    display: inline-block;
+    list-style-type: none;
+}
+
+.navbar-wrapper .navbar-ul li{
+    display: inline-block;
+    padding: 0.5rem;
+    color: #ffffff;
+}
+.navbar-wrapper .navbar-ul li:hover{
+    font-size: 1.5rem;
+}
+
+.join-hobo{
+    text-align: center;
+    color: #ffffff; 
+    background-image: url(../img/bgg.jpg); 
+     padding-top: 6rem;
+    padding-bottom: 10rem;
+    font-size: 20px;
+    background-size: cover; 
+}
+.join{
+    text-decoration: underline;
+    color:rgb(68, 221, 68);
+    font: bolder;
+
+}
+.join:hover{
+    
+    font-size: 2rem;
+}
+
+.meet-button1{
+    background:#c51a08;
+    color: #ffffff;
+    border-style:none;
+    padding: 1rem;
+    margin: 1rem;
+    display: inline;
+    border-radius: 3px;
+}
+
+.meet-button1:hover{
+font-weight: bold;
+}
+.meet-button2{
+    color:#c51a08;
+    background: #ffffff;
+    border-style:none;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 3px;
+    
+}
+.meet-button2:hover{
+    font-weight: bold;
+}
+
+.about-hobo-wrapper{
+    height: 20rem;
+    align-items: center;
+    width: 90%
+    
+
+}
+
+.about-hobo-image img{
+   float:left;
+}
+.hobo-para p{
+    width: 70%;
+   margin: 0 auto;
+   margin-bottom: 4rem;
+    
+  
+}
+
+.about-hobo-body {
+    width: 90%;
+    text-align: center;
+
+}
+
+.about-hobo-body button{
+    background-color:red;
+    border: none;
+    padding: 0.5rem;
+    color: #ffffff;
+    border-radius: 5px;
+  
+}
+
+.travel-talk-wrapper{
+    background: #f1f1f1;
+    text-align:center;
+}
+
+.travel-talk-heading{
+    text-align: center;
+    padding-top:5rem;
+}
+
+.travel-talk-para{
+    text-align: center;
+}
+
+.travel-talk-images{
+    display: inline-block;
+    padding: 1rem;
+    text-align: center;
+}
+
+.travel-talk-images button{
+    background: #319e03;
+    color: #f1f1f1;
+    padding: 5px;
+    border-radius: 3px;
+}
+
+.best-places{
+    text-align: center;
+    background-image: url(../img/ab.jpg);
+    background-size: cover;
+    color: #ffffff; 
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    font-size: 2rem;  
+}
+
+.best-places-button button{
+background: #f1f1f1;
+color: black;
+padding: 0.5rem;
+}
+
+.safe-online-img img{
+    float: left;
+    padding-left: 3rem;
+    padding-top: 5rem;
+
+}
+
+.safe-online-heading{
+    height: 20rem;
+    text-align: center;
+    padding-top: 5rem;
+    
+}
+
+.safe-online-heading .safe-button1{
+    color: #f1f1f1;
+    background:red;
+    padding: 15px;
+    margin: 5px;
+    border-radius: 5px;
+    margin-top: 5rem;
+}
+.safe-online-heading .safe-button2{
+    color: #f1f1f1;
+    background:#0bab00;
+    padding: 15px;
+    border-radius: 5px;
+    
+}
+
+.point-out{
+    text-align: center;
+    background-image: url(../img/bg.jpg);
+    padding-bottom: 2rem;
+}
+
+.point-out-heading{
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    color: #f1f1f1;
+}
+.lets-do-wrapper{
+    text-align: center;
+    background: #c61130;
+    color: #f1f1f1;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.certified-wrapper{
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+}
+.certified-logo img{
+    margin: 20px;
+}
+
+footer{
+    background: #d9230e;
+    margin: 0;
+    padding: 1rem;
+    color: #f1f1f1;
+    height: 2.5rem;;
+    
+}
+.footer-para{
+    float: right;
+    margin-right: 4rem;
+}
+
+
+
+
+
+
